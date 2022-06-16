@@ -16,6 +16,12 @@ Bullfinches are one of the preetiest birds in Britan, with its vibrant pinkish b
 
 _Goldfinches_
 
-![image](https://user-images.githubusercontent.com/107579750/174155957-0d917892-3f2c-4ddd-a63c-21b9c9b7699b.png)
+![image](https://user-images.githubusercontent.com/107579750/174156611-34c189d7-814e-4f3a-8442-f8b1a6144c3c.png)
 
 Goldfinches are very colourful and they're songs are not forgettable very chatty and loud and the population is 313,000 breeding.
+ 
+ Chaffinches
+ 
+ ![image](https://user-images.githubusercontent.com/107579750/174156767-f4d80e04-4cda-42f0-831c-5aaf196af1b3.png)
+
+Chaffinches are commen my friend described they're song as very loud than the sound sounds like its going down the stairs and I have to agree with that we a popualtion of 5,400,000 breeding pairs.
