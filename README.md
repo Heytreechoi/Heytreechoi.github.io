@@ -39,3 +39,7 @@ _Hawfinches_
 A very special type of bird eats berries but not very commen, with 500 to 1000 breeding pairs seems to strive in britan.
 
 These aren't all the finches but these are the ones you have probaky heard of most of these but these are the popualr ones among human beings.
+<opera-wallpaper background-initiated="">
+
+
+</opera-wallpaper>
