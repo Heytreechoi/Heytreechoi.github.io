@@ -1,4 +1,3 @@
-<html>
 _**British Birds**_ by Hyesung choi                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            _** There is at least 626 species of birds in britan with its own special songs and idetifications this website will help you to birdwatch.**_          
 
 
