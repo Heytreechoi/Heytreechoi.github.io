@@ -20,7 +20,7 @@ _Goldfinches_
 
 Goldfinches are very colourful and they're songs are not forgettable very chatty and loud and the population is 313,000 breeding.
  
- Chaffinches
+ _Chaffinches_
  
  ![image](https://user-images.githubusercontent.com/107579750/174156767-f4d80e04-4cda-42f0-831c-5aaf196af1b3.png)
 
@@ -39,7 +39,33 @@ _Hawfinches_
 A very special type of bird eats berries but not very commen, with 500 to 1000 breeding pairs seems to strive in britan.
 
 These aren't all the finches but these are the ones you have probaky heard of most of these but these are the popualr ones among human beings.
-<opera-wallpaper background-initiated="">
 
 
-</opera-wallpaper>
+
+
+**Tits**
+
+_Great tits_
+
+![image](https://user-images.githubusercontent.com/107579750/174347888-66e877f0-2e3e-4d85-a60b-cc09609b4bde.png)
+
+Great tits are very commen, if you just look out of your window you could see one. They have a populations of 2 million.
+
+_blue tits_
+
+![image](https://user-images.githubusercontent.com/107579750/174348918-091e2e5b-c821-4710-a463-41864bd65b10.png)
+
+Blue tits are also very commen too they travel in flocks with great tits and have a population of 3.4 million.
+
+Long tailed tits
+
+![image](https://user-images.githubusercontent.com/107579750/174349718-46ca5821-4e37-45da-bad4-a6d2b93746af.png)
+
+Long tailed tits are best to see in February there population is 380,000 breeding pairs.
+
+_Crested tits_
+
+![image](https://user-images.githubusercontent.com/107579750/174350595-73f40c53-e635-4c67-a161-2ce1a5bdf961.png)
+
+Crested tits eats catipillars and invertabrates there population is 1,000-2,000 pairs.
+
