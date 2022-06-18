@@ -16,7 +16,7 @@ Garden birds
 
 **Finches** 
 
-_Bullfinches_
+<B> _Bullfinches_ </B>
 
 ![image](https://user-images.githubusercontent.com/107579750/174154634-9e431aa2-e0e6-47e8-aeca-7c1bc77c7aae.png)
 
