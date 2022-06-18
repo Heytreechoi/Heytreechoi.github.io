@@ -1,13 +1,4 @@
-<html>
- 
- <head> 
-       <Title>British Bird</title>
- </head>
- 
- <body>
-       <h1>British Birds</h1>
- 
-       <p>_**British Birds**_ by Hyesung choi                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            _** There is at least 626 species of birds in britan with its own special songs and idetifications this website will help you to birdwatch.**_          
+_**British Birds**_ by Hyesung choi                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            _** There is at least 626 species of birds in britan with its own special songs and idetifications this website will help you to birdwatch.**_          
 
 
 
@@ -17,7 +8,7 @@ Garden birds
 
 **Finches** 
 
-<B> _Bullfinches_ </B>
+_Bullfinches_
 
 ![image](https://user-images.githubusercontent.com/107579750/174154634-9e431aa2-e0e6-47e8-aeca-7c1bc77c7aae.png)
 
@@ -76,7 +67,5 @@ _Crested tits_
 
 ![image](https://user-images.githubusercontent.com/107579750/174350595-73f40c53-e635-4c67-a161-2ce1a5bdf961.png)
 
-        Crested tits eats catipillars and invertabrates there population is 1,000-2,000 pairs.</p>
+Crested tits eats catipillars and invertabrates there population is 1,000-2,000 pairs.
 
-
- </body>
