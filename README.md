@@ -73,3 +73,31 @@ Crested tits eats catipillars and invertabrates there population is 1,000-2,000 
 **Crows**
 
 _Magpie_
+
+![image](https://user-images.githubusercontent.com/107579750/174850284-6b33b3a4-e478-4e8d-a2a7-2f25a320514e.png)
+
+The magpie is makes a very special types of nests, they are very messy and round, they have a population of 600000.
+
+_Raven_
+
+![image](https://user-images.githubusercontent.com/107579750/174850841-8885c18a-961e-4146-8859-e31dd8eb9dce.png)
+
+The raven is very intellegent, it can remember faces for 5 years, it has a popualtion of 16,000,000 individuals
+
+_Jackdaws_
+
+![image](https://user-images.githubusercontent.com/107579750/174851329-9729f04b-e3f4-4ebf-9fbc-e720a63e7682.png)
+
+THe jackdaw is a very commen, it is smiliar to the raven, and has a popualtion of 1.4 million
+
+**Sparrows**
+
+_House Sparrows_
+
+![image](https://user-images.githubusercontent.com/107579750/174851996-437f3d30-0b64-4ee6-8d4c-4eee216a6cbe.png)
+
+The house sparrow's sound is very like the goldfinch, it is chatty and loud, it has a popualtio of 6-7 million
+
+Birds of prey/raptors
+
+**Falcons**
