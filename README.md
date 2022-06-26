@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-     <title>**British birds**by Hyesung choi</title>
+     <title>British birds by Hyesung choi</title>
 </head>
  
  <body>
