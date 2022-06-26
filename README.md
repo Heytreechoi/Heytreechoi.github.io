@@ -20,7 +20,8 @@
      
      <p>Red Throated Divers</p>
      
-     <img> ![image](https://user-images.githubusercontent.com/107579750/175825660-205636ba-3a55-45cb-95cc-ab0d29f5fc47.png) </img>
+      <img src="![image](https://user-images.githubusercontent.com/107579750/175825778-4e9b0a53-8f9e-4f5b-bf3d-9fb2a585e572.png)>
+
 
 
      
